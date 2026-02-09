@@ -5,7 +5,8 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-
+    height: 100svh;
+    max-width: 100%;
 }
 .main-info{
     background-image: url(./Background-CrhoXMm2.png);
